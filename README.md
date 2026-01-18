@@ -1,5 +1,8 @@
 # Microsoft-Power-BI-Data-Analyst-Professional-Certificate
 
+![Microsoft](https://img.shields.io/badge/Microsoft-Power%20BI-blue)
+![Status](https://img.shields.io/badge/Certification-Completed-success)
+
 
 This repository showcases my completion of the Microsoft Power BI Data Analyst Professional Certificate issued by Microsoft through Coursera.
 
